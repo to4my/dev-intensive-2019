@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Built application files
 build/
 
@@ -7,7 +6,6 @@ build/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
-||||||| 8845180
 #perevalov
 =======
 # Built application files
@@ -17,7 +15,6 @@ build/
 
 # Local configuration file (sdk path, etc)
 local.properties
->>>>>>> conflikt
 
 # Gradle files
 .gradle/
